@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋, I'm Wunmi
+
+- ✨ Powerhouse backend and mobile engineer building financial tools and products.
+- 🌱 I’m currently learning and interested in blockchain, defi and web3 technologies.
+- 💬 Ask me about scaling backend systems and applications.
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=the-wunmi&show_icons=true&theme=dracula&count_private=true)  
 
 <!--
 **the-wunmi/the-wunmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
